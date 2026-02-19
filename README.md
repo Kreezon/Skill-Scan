@@ -15,19 +15,19 @@ systems analyze resumes for keyword relevance and job alignment.
 
 This project provides a scalable AI-based solution to:
 
--   Evaluate resume compatibility with job descriptions\
--   Identify missing keywords\
--   Suggest structured improvements\
+-   Evaluate resume compatibility with job descriptions
+-   Identify missing keywords
+-   Suggest structured improvements
 -   Increase interview success probability
 
 ------------------------------------------------------------------------
 
 ## 💼 Business Use Cases
 
--   ✅ Resume optimization for ATS compliance\
--   ✅ Intelligent keyword gap analysis\
--   ✅ Career counseling & HR resume evaluation\
--   ✅ Scalable resume analysis solution for institutions\
+-   ✅ Resume optimization for ATS compliance
+-   ✅ Intelligent keyword gap analysis
+-   ✅ Career counseling & HR resume evaluation
+-   ✅ Scalable resume analysis solution for institutions
 -   ✅ Enhanced job search strategy support
 
 ------------------------------------------------------------------------
